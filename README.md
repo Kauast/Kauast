@@ -15,6 +15,9 @@ Meu foco é montar laboratórios reais — com máquinas virtuais, servidores Li
 🎓 **Pós-Graduação em andamento — FIAP**  
 Defensive Cyber Security — Blue Team Operations
 
+🎓 **Graduação Tecnóloga — Estácio** ✅  
+Análise e Desenvolvimento de Sistemas
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
