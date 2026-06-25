@@ -12,6 +12,9 @@
 Estudo e pratico **Infraestrutura de TI**, **Redes de Computadores** e **Cibersegurança Defensiva**.  
 Meu foco é montar laboratórios reais — com máquinas virtuais, servidores Linux, ferramentas de monitoramento e automação — para evoluir de forma prática e documentada.
 
+🎓 **Pós-Graduação em andamento — FIAP**  
+Defensive Cyber Security — Blue Team Operations
+
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
